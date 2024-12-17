@@ -49,6 +49,10 @@ The Unix Emulator is a Rust-based terminal application designed to replicate ess
 - Exit the emulator gracefully using `exit` or pressing **Esc**.
 
 ---
+## **Video Demonstration**  
+For a complete walkthrough of the emulator's features and usage, watch the video demo:  
+
+[**Video Demo Link**](https://www.dropbox.com/scl/fi/zbof2hffrfjurzr0mrqnh/Video-Demo-ECE-1724.mov?rlkey=pil1sl0myysywkxbuhmws4ad3&st=yuo3i5uq&dl=0)
 
 ## **How to Operate the Emulator**
 
@@ -57,9 +61,4 @@ Run the following command from the project directory to start the emulator in re
 
 ```bash
 cargo run --release
-
-## **Video Demonstration**  
-For a complete walkthrough of the emulator's features and usage, watch the video demo:  
-
-[**Video Demo Link**](https://www.dropbox.com/scl/fi/zbof2hffrfjurzr0mrqnh/Video-Demo-ECE-1724.mov?rlkey=pil1sl0myysywkxbuhmws4ad3&st=yuo3i5uq&dl=0)
 
